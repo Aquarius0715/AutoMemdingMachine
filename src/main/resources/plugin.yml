@@ -1,0 +1,4 @@
+name: AutoMendhing
+version: ${project.version}
+main: aquarius0715.automendhing.AutoMendhingMechine
+api-version: 1.15
